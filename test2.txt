@@ -20,4 +20,4 @@ git checkout -b newBranch
 
 git checkout branchName
 
-
+git merge branchName
